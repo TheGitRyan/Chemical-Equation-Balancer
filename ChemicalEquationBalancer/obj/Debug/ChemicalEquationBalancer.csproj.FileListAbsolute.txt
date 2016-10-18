@@ -1,0 +1,6 @@
+c:\users\ryan\documents\visual studio 2015\Projects\ChemicalEquationBalancer\ChemicalEquationBalancer\bin\Debug\ChemicalEquationBalancer.exe.config
+C:\Users\ryan\Documents\Visual Studio 2015\Projects\ChemicalEquationBalancer\ChemicalEquationBalancer\obj\Debug\ChemicalEquationBalancer.csprojResolveAssemblyReference.cache
+C:\Users\ryan\Documents\Visual Studio 2015\Projects\ChemicalEquationBalancer\ChemicalEquationBalancer\bin\Debug\ChemicalEquationBalancer.exe
+C:\Users\ryan\Documents\Visual Studio 2015\Projects\ChemicalEquationBalancer\ChemicalEquationBalancer\bin\Debug\ChemicalEquationBalancer.pdb
+C:\Users\ryan\Documents\Visual Studio 2015\Projects\ChemicalEquationBalancer\ChemicalEquationBalancer\obj\Debug\ChemicalEquationBalancer.exe
+C:\Users\ryan\Documents\Visual Studio 2015\Projects\ChemicalEquationBalancer\ChemicalEquationBalancer\obj\Debug\ChemicalEquationBalancer.pdb
